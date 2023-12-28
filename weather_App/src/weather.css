@@ -1,0 +1,22 @@
+.modal-dialog {
+  background:#fff;
+  border-radius: 25px;
+}
+.form{
+  margin: 15px;
+  width:300px;
+  gap: 15px;
+}
+
+.forcast{
+  margin-top: 10px;
+}
+
+
+.img{
+  width: 120px;
+  height: 120px;
+
+}
+
+
