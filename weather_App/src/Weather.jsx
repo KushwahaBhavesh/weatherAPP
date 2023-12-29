@@ -38,7 +38,7 @@ const WeatherApp = () => {
     setCityName()
     setWeatherData()
     setError()
-  };
+   };
 
 
 
